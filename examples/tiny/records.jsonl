@@ -1,0 +1,6 @@
+# SYNTHETIC hand-written five-contact example, no real outreach data.
+{"id":"tiny-1","channel":"email","touch_date":"2026-09-01","opportunity_date":"2026-09-10","value_minor":10000,"synthetic":true}
+{"id":"tiny-2","channel":"email","touch_date":"2026-09-01","opportunity_date":null,"value_minor":0,"synthetic":true}
+{"id":"tiny-3","channel":"referral","touch_date":"2026-09-01","opportunity_date":"2026-09-12","value_minor":20000,"synthetic":true}
+{"id":"tiny-4","channel":"social","touch_date":"2026-09-01","opportunity_date":null,"value_minor":0,"synthetic":true}
+{"id":"tiny-5","channel":"linkedin","touch_date":"2026-09-01","opportunity_date":null,"value_minor":0,"synthetic":true}

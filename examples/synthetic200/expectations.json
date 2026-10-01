@@ -1,0 +1,88 @@
+{
+  "channels": [
+    {
+      "channel": "email",
+      "contacts": 50,
+      "opportunities": 20,
+      "opportunity_rate": {
+        "denominator": 50,
+        "numerator": 20
+      },
+      "pipeline_value_minor": 200000
+    },
+    {
+      "channel": "linkedin",
+      "contacts": 50,
+      "opportunities": 10,
+      "opportunity_rate": {
+        "denominator": 50,
+        "numerator": 10
+      },
+      "pipeline_value_minor": 200000
+    },
+    {
+      "channel": "referral",
+      "contacts": 50,
+      "opportunities": 5,
+      "opportunity_rate": {
+        "denominator": 50,
+        "numerator": 5
+      },
+      "pipeline_value_minor": 150000
+    },
+    {
+      "channel": "social",
+      "contacts": 50,
+      "opportunities": 0,
+      "opportunity_rate": {
+        "denominator": 50,
+        "numerator": 0
+      },
+      "pipeline_value_minor": 0
+    }
+  ],
+  "label": "SYNTHETIC FIXTURE: hand-computed expectations",
+  "opportunity_ids": [
+    "email-001",
+    "email-002",
+    "email-003",
+    "email-004",
+    "email-005",
+    "email-006",
+    "email-007",
+    "email-008",
+    "email-009",
+    "email-010",
+    "email-011",
+    "email-012",
+    "email-013",
+    "email-014",
+    "email-015",
+    "email-016",
+    "email-017",
+    "email-018",
+    "email-019",
+    "email-020",
+    "linkedin-001",
+    "linkedin-002",
+    "linkedin-003",
+    "linkedin-004",
+    "linkedin-005",
+    "linkedin-006",
+    "linkedin-007",
+    "linkedin-008",
+    "linkedin-009",
+    "linkedin-010",
+    "referral-001",
+    "referral-002",
+    "referral-003",
+    "referral-004",
+    "referral-005"
+  ],
+  "synthetic": true,
+  "totals": {
+    "contacts": 200,
+    "opportunities": 35,
+    "pipeline_value_minor": 550000
+  }
+}

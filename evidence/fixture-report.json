@@ -1,0 +1,348 @@
+{
+  "as_of": "2026-09-30",
+  "channels": [
+    {
+      "channel": "email",
+      "contacts": 50,
+      "opportunities": 20,
+      "opportunity_rate": {
+        "denominator": 50,
+        "numerator": 20
+      },
+      "pipeline_value_minor": 200000
+    },
+    {
+      "channel": "linkedin",
+      "contacts": 50,
+      "opportunities": 10,
+      "opportunity_rate": {
+        "denominator": 50,
+        "numerator": 10
+      },
+      "pipeline_value_minor": 200000
+    },
+    {
+      "channel": "referral",
+      "contacts": 50,
+      "opportunities": 5,
+      "opportunity_rate": {
+        "denominator": 50,
+        "numerator": 5
+      },
+      "pipeline_value_minor": 150000
+    },
+    {
+      "channel": "social",
+      "contacts": 50,
+      "opportunities": 0,
+      "opportunity_rate": {
+        "denominator": 50,
+        "numerator": 0
+      },
+      "pipeline_value_minor": 0
+    }
+  ],
+  "currency": "GBP",
+  "input_files": [
+    {
+      "henry_entered_records": 0,
+      "path": "records.jsonl",
+      "records": 200,
+      "synthetic_records": 200
+    }
+  ],
+  "limits": "Recorded channel attribution only. Pipeline value is entered opportunity value, not realised revenue. Causation, forecasts, time saved and money saved are unmeasured and are not reported.",
+  "opportunities": [
+    {
+      "channel": "email",
+      "id": "email-001",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-002",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-003",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-004",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-005",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-006",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-007",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-008",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-009",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-010",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-011",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-012",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-013",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-014",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-015",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-016",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-017",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-018",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-019",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "email",
+      "id": "email-020",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 10000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-001",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-002",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-003",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-004",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-005",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-006",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-007",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-008",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-009",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "linkedin",
+      "id": "linkedin-010",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 20000
+    },
+    {
+      "channel": "referral",
+      "id": "referral-001",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 30000
+    },
+    {
+      "channel": "referral",
+      "id": "referral-002",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 30000
+    },
+    {
+      "channel": "referral",
+      "id": "referral-003",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 30000
+    },
+    {
+      "channel": "referral",
+      "id": "referral-004",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 30000
+    },
+    {
+      "channel": "referral",
+      "id": "referral-005",
+      "opportunity_date": "2026-09-15",
+      "synthetic": true,
+      "touch_date": "2026-09-01",
+      "value_minor": 30000
+    }
+  ],
+  "provenance": {
+    "henry_entered_records": 0,
+    "synthetic_records": 200
+  },
+  "provenance_banner": "DATA PROVENANCE: 200 synthetic fixture records; 0 real records declared as Henry's own data, entered by him. Identity and source truth are not independently verified.",
+  "schema_version": 1,
+  "totals": {
+    "contacts": 200,
+    "opportunities": 35,
+    "pipeline_value_minor": 550000
+  }
+}
