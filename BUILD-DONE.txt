@@ -1,0 +1,12 @@
+Channel Attribution build complete, 2026-10-01
+
+Tests: 51 passed (python -m pytest -q, 10.07 seconds).
+Local implementation commit hash: 4c0f67b7a90ace54deded91af72f64a2e8ce5b48
+Branch: main
+Measured full installed-CLI demo: 0.884036 seconds.
+Measured JSON report: 0.265385 seconds.
+Synthetic ground truth: 200 contacts, 35 opportunities, 550000 GBP minor units; all planted IDs found, zero false positives, exact reconciliation.
+
+Built a local-only, standard-library Python ca CLI with fixtures, run, report, channels and opportunities commands. Pure validation and attribution compute from explicit contact outcomes, with JSON/JSONL/CSV input, exact integer values and rational rates, provenance banners, a complete opportunity audit trail, deterministic state snapshots and atomic writes. The repo includes a five-record hand-written synthetic example, the labelled 200-record fixture, independent expectations, adversarial pytest coverage, measured acceptance evidence, full input and command documentation, lessons and the two-week real-use improvement hook. Current verdict is provisional maintain as portfolio evidence; real-use evidence and the final verdict remain pending. No savings, causal effects, revenue or buyer demand are claimed, and no publishing was performed.
+
+This file is committed in a subsequent evidence-only commit; the hash above identifies the implementation and acceptance artifacts without a self-referential commit hash.
